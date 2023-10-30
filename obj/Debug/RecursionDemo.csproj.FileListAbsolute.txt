@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\RecursionDemo\bin\Debug\RecursionDemo.exe.config
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\RecursionDemo\bin\Debug\RecursionDemo.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\RecursionDemo\bin\Debug\RecursionDemo.pdb
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\RecursionDemo\obj\Debug\RecursionDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\RecursionDemo\obj\Debug\RecursionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\RecursionDemo\obj\Debug\RecursionDemo.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\RecursionDemo\obj\Debug\RecursionDemo.pdb
